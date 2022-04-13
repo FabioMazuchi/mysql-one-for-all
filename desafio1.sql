@@ -65,7 +65,7 @@ VALUES
 INSERT INTO SpotifyClone.Usuario (nome, idade, plano_id, data_assinatura)
 VALUES
   ('Thati', 23, 1, '2019-10-20'),
-  ('Carol', 35, 2, '2017-12-30'),
+  ('Cintia', 35, 2, '2017-12-30'),
   ('Bill', 20, 3, '2019-06-05'),
   ('Roger', 45, 4, '2020-05-13'),
   ('Norman', 58, 4, '2017-02-17'),
