@@ -81,8 +81,8 @@ VALUES
   ('Peter Strong'),
   ('Lance Day'),
   ('Freedie Shannon'),
-  ('Tyler Isle'),
-  ('Fog');
+  ('Fog'),
+  ('Tyler Isle');
 
 INSERT INTO SpotifyClone.Album (nome, ano_lançamento, artista_id)
 VALUES
